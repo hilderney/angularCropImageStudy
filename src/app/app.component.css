@@ -1,0 +1,18 @@
+.card {
+  background-color: lightgray;
+  padding: 7px 15px;
+  min-width: 320px;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+image-cropper {
+  max-width: 512px;
+  min-height: 128px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 4px;
+}
